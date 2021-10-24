@@ -1,0 +1,9 @@
+﻿  GF.cpp
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(123,23): warning C4018: '<': signed/unsigned mismatch
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(135,27): warning C4018: '<': signed/unsigned mismatch
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+D:\Google Drive\semestr_11\Ochrona danych\Lab1\Lab1\GF.cpp(157,27): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> D:\Google Drive\semestr_11\Ochrona danych\Lab1\Debug\Lab1.exe
